@@ -1,0 +1,29 @@
+
+Mobile Vs Cloud 
+
+Cloud computing offers enterprises the freedom to access hosted services that are traditionally delivered through a wired connection, the mobile cloud focuses on services available through mobile network operators.
+Cloud computing, allows you to store your files and folders in a “cloud” area on the Internet, allowing you access to all of your files and folders wherever you are in the world – but you do need a physical device with Internet access to access it.
+Mobile computing is taking a physical device with you. This could be a laptop or a mobile phone or some device which enables you to telework – working wherever you go because of the small size of the device you’re using.
+
+Mobile apps demand a lot more from the mobile cloud than regular cloud computing. 
+There are some additional drawbacks which have to be taken care of in the case of mobile computing as compared to cloud computing.
+They are listed as follows.
+
+->Total cloud dependency - When using mobile cloud computing, apps may rely on the cloud for everything, especially when you are trying to develop the same app to run on multiple platforms at the same time using a browser interface. An example of this is an app that runs on Apple iOS, Android, BlackBerry and Microsoft Windows Phone operating systems. Because of the differences between these platforms, developers may rely on the mobile cloud to perform all of the computing and storage to avoid multiple development and maintenance efforts with individual native apps.
+
+
+->Mobile cloud computing needs to overcome mobile device differences –The mobile cloud may need to approximate more or less the same end user experience on all platforms to avoid device specific customizations. In traditional cloud usage, the mobile cloud may need to do these adjustments on its side based on what the mobile device being used is.
+
+
+->Mobile cloud computing needs to allow for disconnected operation – Mobile devices may go out of range while an application is being served from the mobile cloud.
+
+->Mobile cloud computing needs to be communication fault tolerant – Mobile connections can become weaker and may even disconnect while an application is being used. The cloud needs to be fault tolerant.
+
+
+->Distance matters in mobile cloud computing – Mobile applications when using the mobile cloud may be sensitive to network latencies caused by distance from the server much more than regular cloud computing. The mobile end user experience may suffer if these latencies are too long.
+
+
+->Mobile cloud computing needs to be mindful of limited energy availability on mobiles
+
+->Expanded testing capabilities – The mobile cloud needs to have additional testing capabilities that allow testing for poor network latency, unreliable and intermittent communication with the mobile device, disconnected operation and subsequent synchronization of data with the app on the mobile device.
+

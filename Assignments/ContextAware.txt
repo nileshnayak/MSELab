@@ -1,0 +1,6 @@
+When we aim to create applications, devices, and systems that are easy to use, it is essential to understand the context of use.In context aware computing, we can support more than one context of use that are equally optimal. At runtime – when the user interacts with the application — the  system can decide what the current context of use is and provide a user interface specifically optimized for this context.
+
+For example the Sony Xperia L phones allow you to select an option that says "Change brightness to adapt to lighting conditions".In this mode the phone is aware of the environment around it and accordingly adjusts the backlight of the screen.If the phone is being used under direct sunlight the brightness of the speed is increased dramatically and in dark conditions the brightness decreases.The phone takes a decision at runtime to select the lighting condition optimal to the environment.This is an example of an application simulating an environment of context aware computing as the phone is aware of its context of use (being used in the dark or in bright conditions ) and changes its settings accordingly using its photo sensors to enhance the overall user experience.
+
+Another example is Google maps being automatically aware of our current location and changing the maps accordingly to be focused on your location.
+
